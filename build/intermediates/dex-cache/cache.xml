@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/alan/develop/android/MyProject/library/barcode-scanner-based-zxing-for-android/libs/core-2.3.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="80a402b12accd66d4be7e5dbcb44e42baa0bdd7c">
+        <dex dex="/Users/alan/develop/android/MyProject/library/barcode-scanner-based-zxing-for-android/build/intermediates/pre-dexed/debug/core-2.3.0-4651273cd8c9956824204f0bf1cff1b664bbceda.jar" />
+    </item>
+
+</items>

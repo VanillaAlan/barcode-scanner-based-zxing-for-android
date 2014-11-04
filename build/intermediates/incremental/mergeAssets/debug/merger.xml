@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/alan/develop/android/MyProject/library/barcode-scanner-based-zxing-for-android/assets"/></dataSet><dataSet config="debug"><source path="/Users/alan/develop/android/MyProject/library/barcode-scanner-based-zxing-for-android/build-types/debug/assets"/></dataSet></merger>
