@@ -1,2 +1,0 @@
-/Users/alan/develop/android/MyProject/library/barcode-scanner-based-zxing-for-android/build/intermediates/pre-dexed/debug/core-2.3.0-4651273cd8c9956824204f0bf1cff1b664bbceda.jar
-/Users/alan/develop/android/MyProject/library/barcode-scanner-based-zxing-for-android/build/intermediates/classes/debug
